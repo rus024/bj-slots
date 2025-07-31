@@ -20,4 +20,8 @@ Run the Python script or notebook to simulate 10,000+ games and compare win rate
 
 ## Example Output
 
+Classic strategy win rate: 0.4132
+Card counting strategy win rate: 0.4170
+
+
 

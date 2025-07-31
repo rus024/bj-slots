@@ -17,3 +17,5 @@ This project uses Python to estimate the average payout per spin from a simulate
    ```python
    estimate_average_slot_payout(10000)
 
+Example output;
+Average net profit per play after 10,000 spins: -0.07
